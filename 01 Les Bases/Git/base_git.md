@@ -84,5 +84,5 @@ La gestion de l'historique et des commits est cruciale pour le suivi des modific
 | **Étiquetage (Tagging)** | Marque des points spécifiques avec `git tag`.    |
 | **Revert et Cherry-pick** | Annule des commits avec `git revert` et applique des commits spécifiques avec `git cherry-pick`. |
   
-# [Documentation](https://git-scm.com/docs)
-# [README.md](README.md)
+- [Documentation](https://git-scm.com/docs)
+- [README.md](README.md)
