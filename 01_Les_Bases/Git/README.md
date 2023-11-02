@@ -61,3 +61,7 @@ Découvrez les meilleures pratiques pour travailler en équipe avec GIT et gére
 Explorez les fonctionnalités de Github pour faciliter la gestion de projet et la collaboration en ligne.
 
 [En savoir plus](Documentations_Git/github.md)
+
+## Connaissances Essentielles en Git pour l'Entreprise
+
+[En savoir plus](Documentations_Git/Connaissances_Git_en_Entreprise.md)
