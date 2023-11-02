@@ -36,28 +36,28 @@ Le système de contrôle de version distribué GIT est un outil largement utilis
 
 Découvrez les commandes de base de GIT et apprenez à configurer votre environnement de développement pour l'utiliser.
 
-[En savoir plus](base_git.md)
+[En savoir plus](Documentation%20Git/base_git.md)
 
 ## Les Branches GIT
 
 Les branches GIT sont un aspect essentiel de la gestion de projet. Apprenez comment les utiliser de manière efficace.
 
-[En savoir plus](branches_git.md)
+[En savoir plus](Documentation%20Git/branches_git.md)
 
 ## Serveur Git
 
 Comprenez comment configurer et utiliser un serveur GIT pour faciliter la collaboration avec votre équipe.
 
-[En savoir plus](serveur_git.md)
+[En savoir plus](Documentation%20Git/serveur_git.md)
 
 ## Travail collaboratif
 
 Découvrez les meilleures pratiques pour travailler en équipe avec GIT et gérer les conflits de fusion.
 
-[En savoir plus](travail_collaboratif.md)
+[En savoir plus](Documentation%20Git/travail_collaboratif.md)
 
 ## Github
 
 Explorez les fonctionnalités de Github pour faciliter la gestion de projet et la collaboration en ligne.
 
-[En savoir plus](github.md)
+[En savoir plus](Documentation%20Git/github.md)
