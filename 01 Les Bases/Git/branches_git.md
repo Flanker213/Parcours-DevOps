@@ -1,4 +1,4 @@
-### Documentation sur les Branches Git
+# Documentation sur les Branches Git
 
 ## (1/5) Définition des Branches Git
 Les branches Git sont des copies indépendantes de votre code source, créées à partir de la branche principale (généralement "master" ou "main"). Elles permettent de travailler sur différentes fonctionnalités ou correctifs de manière isolée, sans affecter la version principale du projet. Voici comment créer une nouvelle branche et la basculer :
