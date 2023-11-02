@@ -42,7 +42,7 @@ Découvrez les commandes de base de GIT et apprenez à configurer votre environn
 
 Les branches GIT sont un aspect essentiel de la gestion de projet. Apprenez comment les utiliser de manière efficace.
 
-[En savoir plus](01%20Les%20Bases/Git/Documentations%20Git/branches_git.md)
+[En savoir plus](Les Bases/Git/Documentations Git/branches_git.md)
 
 ## Serveur Git
 
