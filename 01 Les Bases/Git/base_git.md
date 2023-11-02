@@ -114,6 +114,51 @@ node_modules/
 # Exclure le fichier config.txt de l'ignorance
 !config.txt
 ```
-  
+
+### Les Balises (Tags) Git
+
+Les balises (tags) Git sont des références statiques pointant vers des versions spécifiques de votre dépôt. Elles sont couramment utilisées pour marquer des versions stables, des points de repère ou des versions de publication dans un projet Git.
+
+## Création d'une Balise
+
+Pour créer une balise dans Git, vous pouvez utiliser la commande `git tag`. Par exemple, pour créer une balise annotée (recommandée) pour une version 1.0, vous pouvez saisir :
+
+```bash
+git tag -a v1.0 -m "Version 1.0"
+```
+
+Cela créera une balise nommée "v1.0" avec un message explicatif "Version 1.0". Les balises annotées incluent des informations supplémentaires, comme l'auteur et la date, ce qui les rend plus informatives.
+
+## Types de Balises
+
+Il existe deux principaux types de balises Git : les balises légères (lightweight) et les balises annotées. Les balises légères sont simplement des pointeurs vers un commit spécifique, tandis que les balises annotées sont associées à un objet Git complet et contiennent des métadonnées.
+
+## Utilisation des Balises
+
+Une fois qu'une balise est créée, vous pouvez la pousser vers le dépôt distant avec la commande `git push`. Par exemple, pour pousser la balise "v1.0" vers le dépôt distant, vous pouvez utiliser :
+
+```bash
+git push origin v1.0
+```
+
+Les balises Git sont utiles pour marquer des versions importantes de votre projet, ce qui facilite la navigation dans l'historique du code, la publication de versions spécifiques et la communication au sein de l'équipe.
+
+## Affichage des Balises
+
+Pour afficher la liste des balises dans votre dépôt, vous pouvez utiliser la commande `git tag` :
+
+```bash
+git tag
+```
+
+Cela affichera toutes les balises dans votre dépôt local. Pour afficher les balises dans le dépôt distant, vous pouvez exécuter la commande suivante :
+
+```bash
+git ls-remote --tags origin
+```
+
+Les balises Git sont un outil puissant pour marquer et gérer les versions de votre projet, ce qui facilite la collaboration et la gestion de versions.
+
+
 - [Documentation](https://git-scm.com/docs)
 - [README.md](README.md)
