@@ -113,7 +113,7 @@ node_modules/
 
 # Exclure le fichier config.txt de l'ignorance
 !config.txt
-
+```
   
 - [Documentation](https://git-scm.com/docs)
 - [README.md](README.md)
